@@ -14,7 +14,7 @@
                                 <h3 class="mb-0">Data Siswa</h3>
                             </div>
                             <div class="col-4 text-right">
-                                <a href="/siswa/tambah" class="btn btn-sm btn-primary">{{ __('Add user') }}</a>
+                                <a href="/siswa/tambah" class="btn btn-sm btn-primary">{{ __('Tambah Siswa') }}</a>
                             </div>
                         </div>
                     </div>
